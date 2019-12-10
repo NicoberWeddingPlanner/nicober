@@ -89,7 +89,7 @@ body {
       background: #edcab0;
       background: radial-gradient(#edcab0, #e9a982);
       border-radius: 50%;
-      border: 3px solid #f8e7dc; }
+      border: 3px solid white; }
       .santa .head .face .redhat .whitepart {
         position: absolute;
         left: 50%;
@@ -101,7 +101,7 @@ body {
         transform: translateX(-50%);
         width: 90%;
         height: 32px;
-        background: #f8e7dc;
+        background: white;
         border-radius: 50px;
         z-index: 4;
         box-shadow: 0px 6px 0px -4px rgba(0, 0, 0, 0.1); }
@@ -134,7 +134,7 @@ body {
       .santa .head .face .redhat .hatball {
         width: 38px;
         height: 38px;
-        background: #f8e7dc;
+        background: white;
         border-radius: 50%;
         z-index: 5;
         position: absolute;
@@ -167,7 +167,7 @@ body {
       .santa .head .face .beard {
         width: 55px;
         height: 55px;
-        background: #f8e7dc;
+        background: white;
         border-radius: 50%;
         position: absolute;
         bottom: -30px;
@@ -186,7 +186,7 @@ body {
           content: " ";
           width: 80px;
           height: 80px;
-          background: #f8e7dc;
+          background: white;
           border-radius: 50%;
           position: absolute;
           bottom: 15px; }
